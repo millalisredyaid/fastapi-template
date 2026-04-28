@@ -1,3 +1,11 @@
 venv/
 __pycache__/
+*.py[cod]
 
+app_backup_before_refactor/
+app_backup_before_phase1_refactor/
+
+app/models/*.joblib
+
+.DS_Store
+.vscode/

@@ -1,0 +1,7 @@
+APP_TITLE = "AI Security Platform"
+APP_DESCRIPTION = "Autonomous Security Agent API"
+APP_VERSION = "0.1.0"
+
+ANOMALY_THRESHOLD = -0.15
+MEDIUM_THRESHOLD = -0.15
+HIGH_THRESHOLD = -0.30
